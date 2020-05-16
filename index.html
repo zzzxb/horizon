@@ -13,8 +13,11 @@
   <div id="app">Loading</div>
   <script>
     window.$docsify = {
+      // 项目名字
       name: "Horizon",
+      // 封面显示
       coverpage: true,
+      loadSidebar: true
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
