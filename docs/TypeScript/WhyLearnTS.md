@@ -2,6 +2,8 @@
 
 我想去写一个 VS Code Plugin
 
+## [<-back](README.md)
+
 ## 1.为什么不学习 JavaScript
 
 因为 TypeScript 是一个 JavaScript 的超集，他所生成的还是一个JS代码，但是针对JS的各种规范，他做到了一个统一，并且能写出比JavaScript更好理解的代码，就像java代码写出来需要jvm进行优化一样，Java语法只是为了让你能更好的去写作代码，不管写的很烂，还是怎么着，他都能给我们优化的更利于jvm编译和解释。
