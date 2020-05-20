@@ -10,14 +10,15 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/prism.css">
 </head>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script> function fun() { $("#guide").hide(); $("#my-log").fadeIn(3000); } </script>
 <body>
   <div id="app">太阳正在升起</div>
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
-    }
-
+    } 
     window.$docsify = {
       name: "Horizon",
       coverpage: true,

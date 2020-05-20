@@ -2,7 +2,7 @@
 
 [TS - OS](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
-## [<-back](README.md)
+## [<-back](docs/TypeScript/README.md)
 
 ## MacOS
 

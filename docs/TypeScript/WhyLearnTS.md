@@ -4,7 +4,7 @@
 
 [为什么学习TS - OS](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 
-## [<-back](README.md)
+## [<-back](docs/TypeScript/README.md)
 
 ## 1.为什么不学习 JavaScript
 
