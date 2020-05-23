@@ -5,6 +5,7 @@
   <div id="my-log" style="display: none;"> <div onclick="$(this).hide()"> <a href="#/docs/Horizon.md"> h---o---r---i---z---o---n </a> </div> </div> 
 ## Language
 
+* [C++](docs/cpp/README.md)
 * [JavaScript](docs/JavaScript/README.md)
 * [TypeScript](docs/TypeScript/README.md)
 
