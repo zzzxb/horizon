@@ -12,9 +12,6 @@
 
 ## Framework
 
-
-## Other
-
 * [Docker](docs/docker/README.md)
 
 * TODO
