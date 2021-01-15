@@ -2,11 +2,17 @@
 
 像出生的太阳，从地平线升起，逐渐照耀大地,
   散发他的光芒.提高了自己，也温暖别人。
-  <div id="my-log" style="display: none;"> <div onclick="$(this).hide()"> <a href="#/docs/life/Horizon.md"> __h_o_r_i_z_o_n__ </a> </div> </div> 
+  <div id="my-log" style="display: none;">
+    <div onclick="$(this).hide()">
+      <a href="#/docs/life/Horizon.md"> __h_o_r_i_z_o_n__ </a>
+    </div>
+  </div> 
 
 ## Learning
 
-* [Nginx](docs/nginx/NginxHttpServer.md)
+## Book List
+
+* [Nginx Http Server](docs/nginx/NginxHttpServer.md)
 
 ## My Tools
 
