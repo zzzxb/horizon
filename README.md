@@ -22,7 +22,7 @@
 
 ## 撸起袖子加油干
 
-* [郑大远程教育](./docs/RemoteZD/README.md)
+* [郑大远程教育](docs/RemoteZD/README.md)
 
 ## My Game
 
