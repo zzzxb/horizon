@@ -1,3 +1,3 @@
 # 上学期
 
-* [C](./C/README.md)
+* [C](/docs/RemoteZD/LastTerm/C/README.md)
