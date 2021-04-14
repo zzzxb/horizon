@@ -12,17 +12,11 @@
 
 ## Book List
 
-* [Nginx Http Server](docs/nginx/NginxHttpServer.md)
-
 ## My Tools
 
 * [Dictionary - LibGDX](https://github.com/zzzxb/Dictionary)
 * [Jekyll Post template - Java](https://github.com/zzzxb/Blog-template-generation)
 * [BatchName - Java](https://github.com/zzzxb/BatchName)
-
-## 撸起袖子加油干
-
-* [郑大远程教育](docs/RemoteZD/README.md)
 
 ## My Game
 
